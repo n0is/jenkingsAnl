@@ -27,7 +27,7 @@ public class Jenkins {
         }
     }
     
-    private static int getSomme(int a, int b){
+    public static int getSomme(int a, int b){
         return a + b;
     }
 }
