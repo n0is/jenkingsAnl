@@ -30,4 +30,8 @@ public class Jenkins {
     public static int getSomme(int a, int b){
         return a + b;
     }
+    
+    public static int getSoustraction(int a, int b){
+        return a - b;
+    }
 }
