@@ -26,12 +26,16 @@ public class Jenkins {
             quit = keyboard.nextInt();
         }
     }
-    
-    public static int getSomme(int a, int b){
+
+    public static int getSomme(int a, int b) {
         return a + b;
     }
-    
-    public static int getSoustraction(int a, int b){
+
+    public static int getSoustraction(int a, int b) {
         return a - b;
+    }
+
+    public static int getMultiplication(int a, int b) {
+        return a * b;
     }
 }
