@@ -1,11 +1,15 @@
 package jenkins;
 
 import java.util.Scanner;
+import org.junit.extensions.cpsuite.ClasspathSuite;
+import org.junit.runner.RunWith;
 
 /**
  *
  * @author Quentin Luc G34799
  */
+
+@RunWith(ClasspathSuite.class)
 public class Jenkins {
 
     /**
