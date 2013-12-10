@@ -16,4 +16,11 @@ public class JenkinsTest {
         int nb2 = 3;
         assertEquals(Jenkins.getSomme(nb1, nb2), 8);
     }
+    
+    @Test
+    public void test2() {
+        int nb1 = 5;
+        int nb2 = 3;
+        assertEquals(Jenkins.getSoustraction(nb1, nb2), 2);
+    }
 }
