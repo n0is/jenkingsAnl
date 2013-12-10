@@ -10,7 +10,6 @@ import static org.junit.Assert.*;
 
 public class JenkinsTest {
     
-    //@Rule public JenkinsRule j = new JenkinsRule();
     @Test
     public void test1() {
         int nb1 = 5;
