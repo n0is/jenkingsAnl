@@ -1,4 +1,4 @@
 jenkingsAnl
 ===========
 
-Travail analyse sur les serveurs d'intégrations continue
+Travail d'analyse sur les serveurs d'intégration continue.
